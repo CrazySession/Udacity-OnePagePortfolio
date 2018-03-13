@@ -11,6 +11,12 @@
     float: right;
 }
 
+#logo{
+    width: 20%;
+    height: 20%;
+    float: left;
+}
+
 #Brand{
     font-family: 'Kumar One', cursive;
 }
