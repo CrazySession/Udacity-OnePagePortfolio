@@ -1,0 +1,160 @@
+/* Grey colors from Dark to light
+#38393B
+#5C5E61
+#74767B
+#808288
+#BCBFC7
+ */
+
+#top{
+    width: 66%;
+    float: right;
+}
+
+#Brand{
+    font-family: 'Kumar One', cursive;
+}
+
+#colorBar{
+    float: left;
+}
+
+#cOne{
+    text-align: center;
+}
+
+#cOneBox{
+    background-color: #38393B;
+    border-radius: 20px;
+    margin: 25px;
+    width: 150px;
+    height: 150px;
+}
+
+#cTwo{
+    text-align: center;
+}
+
+#cTwoBox{
+    background-color: #BCBFC7;
+    border-radius: 20px;
+    margin: 25px;
+    width: 150px;
+    height: 150px;
+}
+
+#cThree{
+    text-align: center;
+}
+
+#cThreeBox{
+    background-color: #74767B;
+    border-radius: 20px;
+    margin: 25px;
+    width: 150px;
+    height: 150px;
+}
+
+
+ul{
+    list-style: none;
+}
+
+h1{
+    text-align: right;
+    padding-right: 15px;
+    color:#BCBFC7;
+}
+
+h2{
+    text-align: right;
+    padding-right: 15px;
+    color: #BCBFC7;
+}
+
+.clear{
+    clear: both;
+}
+
+#mainImg{
+    float: right;
+}
+
+#smallOne{
+    height: 200px;
+    float: left;
+    margin: 25px;
+    padding: 10px;
+    border: #38393B solid 2px ;
+    border-radius: 20px;
+}
+
+#smallTwo{
+    height: 200px;
+    float: left;
+    margin: 25px;
+    padding: 10px;
+    border: #38393B solid 2px ;
+    border-radius: 20px;
+}
+
+#smallThree{
+    height: 200px;
+    float: left;
+    margin: 25px;
+    padding: 10px;
+    border: #38393B solid 2px ;
+    border-radius: 20px;
+}
+
+#LinkOne{
+    float: left;
+    width: 33%;
+    /*text-align: center;*/
+    font-size: 1.2em;
+}
+
+#LinkTwo{
+    float: left;
+    width: 33%;
+    /*text-align: center;*/
+    font-size: 1.2em;
+}
+
+#LinkThree{
+    float: left;
+    width: 33%;
+    /*text-align: center;*/
+    font-size: 1.2em;
+}
+
+#linksIpad{
+    display: none;
+}
+
+footer{
+    background-color:#74767B ;
+    text-align: center;
+}
+
+a:link
+{
+    color:#38393B;
+    text-decoration:none  !important;
+}
+a:visited
+{
+    color:#38393B;
+    text-decoration:none !important;
+}
+a:hover
+{
+    color:#38393B;
+    text-decoration:none !important;
+}
+
+a:active
+{
+    color: #38393B;
+    text-decoration: none !important;
+}
