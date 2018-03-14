@@ -2,4 +2,4 @@
 Lesson 1 Portfolio Site
 
 
-Landing Page with seperated CSS File and Media Queries for Responsive Design
+Landing Page with seperated CSS Files and Media Queries for Responsive Design
