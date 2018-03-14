@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+}
+
+#logo{
+    display: none;
+}
+
+#cOneBox {
+    display: none;
+}
+#cOne{
+    display: none;
+}
+#cTwoBox {
+    display: none;
+}
+#cTwo{
+    display: none;
+}
+#cThreeBox {
+    display: none;
+}
+#cThree{
+    display: none;
+}
+
+#mainImg{
+    display: none;
+}
+
+#smallOne{
+    margin: 0;
+    height: 150px;
+}
+#smallTwo{
+    margin: 0;
+    height: 150px;
+}
+
+#smallThree{
+    margin: 0;
+    height: 150px;
+}
+#LinkOne{
+    display: none;
+}
+
+
+#LinkTwo{
+    display: none;
+}
+
+#LinkThree{
+    display: none;
+}
+
+#linksIpad{
+    display: none;
+}
+
+#LinkOneIpad{
+    display: none;
+}
+
+#LinkTwoIpad{
+    display: none;
+}
+
+#LinkThreeIpad{
+    display: none;
+}

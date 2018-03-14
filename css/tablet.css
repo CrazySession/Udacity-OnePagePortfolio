@@ -1,0 +1,40 @@
+#cOneBox {
+    width: 80px;
+    height: 80px;
+}
+#cTwoBox {
+    width: 80px;
+    height: 80px;
+}
+#cThreeBox {
+    width: 80px;
+    height: 80px;
+}
+
+#mainImg{
+    width: 80%;
+}
+
+#LinkOne{
+    display: none;
+}
+
+#LinkTwo{
+    display: none;
+}
+
+#LinkThree{
+    display: none;
+}
+
+#linksIpad{
+    display: block;
+}
+
+#LinkOneIpad{
+    margin: 125px;
+}
+
+#LinkTwoIpad{
+    margin: 225px;
+}
